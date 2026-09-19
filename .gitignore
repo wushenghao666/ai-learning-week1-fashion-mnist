@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+# Keep reproducible experiment artifacts (metrics, figures, predictions, checkpoints).
+# The downloaded Fashion-MNIST data remains ignored by the `data/` rule above.
+*.ipynb_checkpoints/
